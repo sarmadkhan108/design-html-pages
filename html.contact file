@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Contact Form</h2>
+<p>Please fill in the from below to get in tuch with us.</p>
+
+<form action="/action_page.php">
+  <fieldset>
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname"><br><br>
+     <label for="email">Email address:</label><br>
+  <input type="email" id="email" name="email"><br><br>
+  <label for="phone">phone number:</label><br>
+  <input type="tel" id="phone" name="phone"><br><br>
+  <form action="/action_page.php">
+ Message:</label><br>
+  <textarea name="message" rows="10" cols="30"> </textarea>
+  <br><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> I've read and agree with <u>Terms of Service</u> and <u>Privacy Policy</u>.</label><br><br>
+
+
+  <input type="submit"  value="Submit">
+</form>
+</body>
+</html>
