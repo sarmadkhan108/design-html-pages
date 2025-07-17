@@ -1,0 +1,26 @@
+p {
+  color: rgb(190, 10, 10);
+}
+
+.button {
+      background-color: #04AA6D;
+      border: none;
+      color: rgb(146, 13, 13);
+      padding: 9px 20px;
+      text-align: center;
+      font-size: 12px;
+      cursor: pointer;
+    } 
+    
+     body {
+      background-color: rgb(5, 53, 59);
+    } 
+     h1 {
+      color: rgb(13, 13, 230);
+    }
+   .sarmad p {
+      color: rgb(56, 47, 237);
+    }
+
+
+    
