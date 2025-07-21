@@ -1,0 +1,19 @@
+h2 {
+  color: rgb(7, 2, 99);
+}
+p {
+  color: rgb(47, 18, 159);
+}
+input[type=submit] {
+      background-color: #04404f;
+      border: none;
+      color: rgb(9, 177, 174);
+      padding: 9px 20px;
+      text-align: center;
+      font-size: 12px;
+      cursor: pointer;
+    } 
+body {
+    background-color: rgb(85, 144, 155);
+    } 
+     
